@@ -7,7 +7,7 @@ import torch
 import argparse
 from shutil import copyfile
 from src.config import Config
-from src.SCSAF import SCSA
+from src.SCSAF import SCSAF
 import wandb
 
 
